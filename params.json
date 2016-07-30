@@ -1,6 +1,6 @@
 {
   "name": "Emxsys Repositories",
   "tagline": "Wildfire Management Tools and NASA World Wind projects",
-  "body": "### [WorldWindExplorer](https://emxsys.github.io/WorldWindExplorer/)\r\nThe World Wind Explorer is a geo-browser web app framework based on the [NASA Web World Wind SDK](https://github.com/NASAWorldWind/WebWorldWind).  This is an HTML5 web app built with Knockout and Bootstrap libraries.\r\n\r\n### Authors and Contributors\r\nEmxsys projects are authored by Bruce Schubert (@emxsys)\r\n\r\n",
+  "body": "### [WorldWindExplorer](https://github.com/emxsys/WebWorldWind)\r\nThe World Wind Explorer is a geo-browser web app framework based on the [NASA Web World Wind SDK](https://github.com/NASAWorldWind/WebWorldWind).  This is an HTML5 web app built with Knockout and Bootstrap libraries.\r\n\r\n### Authors and Contributors\r\nEmxsys projects are authored by Bruce Schubert (@emxsys)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
