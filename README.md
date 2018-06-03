@@ -1,9 +1,11 @@
 # Popular Content
-### Bible Atlas [(emxsys/bible-atlas)](https://github.com/emxsys/bible-atlas)
-[bible.viewer.earth](https://bible.viewer.earth)
+### Bible Atlas 
+- Repo: [emxsys/bible-atlas](https://github.com/emxsys/bible-atlas)
+- Web App: [bible.viewer.earth](https://bible.viewer.earth)
 
-### WorldWind Explorer [(emxsys/worldwind.explorer.earth)](https://github.com/emxsys/worldwind.explorer.earth)
-[explorer.worldwind.earth](https://explorer.worldwind.earth)
+### WorldWind Explorer 
+- Repo: [emxsys/worldwind.explorer.earth](https://github.com/emxsys/worldwind.explorer.earth)
+- Web App: [explorer.worldwind.earth](https://explorer.worldwind.earth)
 
 The [Emxsys - WorldWind Explorer](https://github.com/emxsys/worldwind.explorer.earth) is a [geo-browser web app](https://worldwind.explorer.earth) 
 framework based on the [Web WorldWind virtual globe SDK](https://github.com/NASAWorldWind/WebWorldWind) 
@@ -12,21 +14,26 @@ and Bootstrap libraries. This project is a fork of the [WorldWindLabs - WorldWin
 
 # WorldWind Resources
 
-### WorldWind React Globe component [(emxsys/worldwind-react-globe)](https://github.com/emxsys/worldwind-react-globe)
-[worldwind-react-globe demo](https://emxsys.github.io/worldwind-react-globe/)
+### WorldWind React Globe component 
+- Repo: [emxsys/worldwind-react-globe](https://github.com/emxsys/worldwind-react-globe)
+- Demo: [worldwind-react-globe](https://emxsys.github.io/worldwind-react-globe/)
 
-### WorldWind React Globe UI components [(emxsys/worldwind-react-globe-bs4)](https://github.com/emxsys/worldwind-react-globe-bs4)
-[worldwind-react-globe-bs4 demo](https://emxsys.github.io/worldwind-react-globe-bs4/)
+### WorldWind React Globe UI components 
+- Repo: [emxsys/worldwind-react-globe-bs4](https://github.com/emxsys/worldwind-react-globe-bs4)
+- Demo: [worldwind-react-globe-bs4](https://emxsys.github.io/worldwind-react-globe-bs4/)
 
-### WorldWind React Application template [(worldwind-react-app)](https://github.com/emxsys/worldwind-react-app)
-[worldwind-react-app demo](https://emxsys.github.io/worldwind-react-app/)
+### WorldWind React Application template 
+- Repo: [emxsys/worldwind-react-app](https://github.com/emxsys/worldwind-react-app)
+- Demo: [worldwind-react-app](https://emxsys.github.io/worldwind-react-app/)
 
-### WorldWind Web App template [(worldwind-web-app)](https://github.com/emxsys/worldwind-web-app)
-[worldwind-web-app demo](https://emxsys.github.io/worldwind-web-app/)
+### WorldWind Web App template 
+- Repo: [emxsys/worldwind-web-app](https://github.com/emxsys/worldwind-web-app)
+- Demo: [worldwind-web-app](https://emxsys.github.io/worldwind-web-app/)
 
 # Wildfire Management Tools
 
-### Wildfire Viewer [(emxsys/wildfire.viewer.earth)](https://github.com/emxsys/wildfire.viewer.earth)
+### Wildfire Viewer 
+- Repo: [emxsys/wildfire.viewer.earth](https://github.com/emxsys/wildfire.viewer.earth)
 
 # Authors and Contributors
 Emxsys projects are authored by Bruce Schubert (@emxsys)
