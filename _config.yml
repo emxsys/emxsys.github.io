@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Emxsys Repositories
 description: Wildfire Management Tools and NASA WorldWind Projects
+baseurl: /emxsys
