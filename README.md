@@ -14,19 +14,19 @@ and Bootstrap libraries. This project is a fork of the [WorldWindLabs - WorldWin
 
 # WorldWind Resources
 
-### WorldWind React Globe component 
+### React Globe component 
 - Repo: [emxsys/worldwind-react-globe](https://github.com/emxsys/worldwind-react-globe)
 - Demo: [worldwind-react-globe](https://emxsys.github.io/worldwind-react-globe/)
 
-### WorldWind React Globe UI components 
+### React Globe UI components 
 - Repo: [emxsys/worldwind-react-globe-bs4](https://github.com/emxsys/worldwind-react-globe-bs4)
 - Demo: [worldwind-react-globe-bs4](https://emxsys.github.io/worldwind-react-globe-bs4/)
 
-### WorldWind React Application template 
+### React Application template 
 - Repo: [emxsys/worldwind-react-app](https://github.com/emxsys/worldwind-react-app)
 - Demo: [worldwind-react-app](https://emxsys.github.io/worldwind-react-app/)
 
-### WorldWind Web App template 
+### Web App template 
 - Repo: [emxsys/worldwind-web-app](https://github.com/emxsys/worldwind-web-app)
 - Demo: [worldwind-web-app](https://emxsys.github.io/worldwind-web-app/)
 
