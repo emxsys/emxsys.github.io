@@ -14,6 +14,10 @@ and Bootstrap libraries. This project is a fork of the [WorldWindLabs - WorldWin
 
 # WorldWind Resources
 
+### WorldWindJS library 
+- Repo: [emxsys/worldwindjs](https://github.com/emxsys/worldwindjs)
+- NPM Package: [worldwindjs](https://www.npmjs.com/package/worldwindjs)
+
 ### React Globe component 
 - Repo: [emxsys/worldwind-react-globe](https://github.com/emxsys/worldwind-react-globe)
 - Demo: [worldwind-react-globe](https://emxsys.github.io/worldwind-react-globe/)
