@@ -5,7 +5,7 @@
 
 ### WorldWind Explorer 
 - Repo: [emxsys/worldwind.explorer.earth](https://github.com/emxsys/worldwind.explorer.earth)
-- Web App: [explorer.worldwind.earth](https://explorer.worldwind.earth)
+- Web App: [explorer.worldwind.earth](http://explorer.worldwind.earth)
 
 The [Emxsys - WorldWind Explorer](https://github.com/emxsys/worldwind.explorer.earth) is a [geo-browser web app](https://worldwind.explorer.earth) 
 framework based on the [Web WorldWind virtual globe SDK](https://github.com/NASAWorldWind/WebWorldWind) 
@@ -16,7 +16,7 @@ and Bootstrap libraries. This project is a fork of the [WorldWindLabs - WorldWin
 
 ### WorldWindJS library 
 - Repo: [emxsys/worldwindjs](https://github.com/emxsys/worldwindjs)
-- NPM Package: [worldwindjs](https://www.npmjs.com/package/worldwindjs)
+- Web Site [WorldWindJS](https://emxsys.github.io/worldwindjs/)
 
 ### React Globe component 
 - Repo: [emxsys/worldwind-react-globe](https://github.com/emxsys/worldwind-react-globe)
