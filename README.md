@@ -1,7 +1,7 @@
 # Popular Content
 ### Bible Atlas 
 - Repo: [emxsys/bible-atlas](https://github.com/emxsys/bible-atlas)
-- Web App: [bible.viewer.earth](https://bible.viewer.earth)
+- Web App: [viewer.earth/bible-atlas](https://viewer.earth/bible-atlas)
 
 ### WorldWind Explorer 
 - Repo: [emxsys/worldwind.explorer.earth](https://github.com/emxsys/worldwind.explorer.earth)
