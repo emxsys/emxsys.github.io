@@ -1,3 +1,11 @@
 theme: jekyll-theme-slate
 title: Emxsys Repositories
 description: Wildfire Management Tools and NASA WorldWind Projects
+author: Bruce Schubert
+show_downloads: false
+plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
