@@ -1,16 +1,23 @@
 # Popular Content
-### Bible Atlas 
-- Web App: [viewer.earth/bible-atlas](https://viewer.earth/bible-atlas)
-- Repo: [earthviewer/bible-atlas](https://github.com/earthviewer/bible-atlas)
+### Call Attendant
+A python-based automated call attendant, call blocker, and voice messaging system running on a Raspberry Pi. 
+- Web Page: [emxsys.github.io/callattendant/](https://emxsys.github.io/callattendant/)
+- Repo: [github.com/emxsys/callattendant](https://github.com/emxsys/callattendant)
 
 ### WorldWind Explorer 
+A 3D Globe web app with layers, markers, weather and placenames
 - Web App: [explorer.worldwind.earth](http://worldwind.earth/explorer)
 - Repo: [worldwindearth/explorer](https://github.com/worldwindearth/explorer)
 
 The [Emxsys - WorldWind Explorer](https://github.com/emxsys/worldwind.explorer.earth) is a [geo-browser web app](https://explorer.worldwind.earth) 
 framework based on the [Web WorldWind virtual globe SDK](https://github.com/NASAWorldWind/WebWorldWind) 
 developed by [NASA and ESA](https://worldwind.arc.nasa.gov/web). It is an HTML5 web app built with Knockout 
-and Bootstrap libraries. This project is a fork of the [WorldWindLabs - WorldWind Explorer](https://github.com/worldwindlabs/worldwindexplorer).
+and Bootstrap libraries. 
+
+# Under Development
+### Bible Atlas 
+- Web App: [viewer.earth/bible-atlas](https://viewer.earth/bible-atlas)
+- Repo: [earthviewer/bible-atlas](https://github.com/earthviewer/bible-atlas)
 
 # WorldWind Resources
 
@@ -40,4 +47,4 @@ and Bootstrap libraries. This project is a fork of the [WorldWindLabs - WorldWin
 - Repo: [emxsys/wildfire.viewer.earth](https://github.com/emxsys/wildfire.viewer.earth)
 
 # Authors and Contributors
-Emxsys projects are authored by Bruce Schubert (@emxsys)
+Emxsys projects are authored by Bruce Schubert (bruce @ emxsys.com)
